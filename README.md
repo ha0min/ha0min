@@ -2,8 +2,17 @@
 
 ## 
 
-I bring a rich background in both front-end and back-end development, having honed my skills across multiple internships where I tackled real-world problems with cutting-edge technology.
+**Hi There, This is Haomin.** A passionate Software Engineer with a robust background in both front-end and back-end development. I specialize in creating efficient, scalable solutions using a variety of technologies and frameworks.
 
+
+🌱 I’m currently learning:
+- Advanced cloud solutions and architecture, aiming to deepen my understanding and expertise in cloud platforms and microservices.
+- Exploring the frontiers of AI and machine learning, particularly in natural language processing and real-time data processing.
+
+## Github Stats 🛠️
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha0min&layout=compact&theme=tokyonight" /></a>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=ha0min&theme=tokyonight" alt="muskanrani" />
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ha0min/ha0min/output/github-contribution-grid-snake-dark.svg">
@@ -14,6 +23,7 @@ I bring a rich background in both front-end and back-end development, having hon
 [![wakatime](https://wakatime.com/badge/user/b5b67ae1-6061-466d-982e-e7b9ec9d9369.svg)](https://wakatime.com/@b5b67ae1-6061-466d-982e-e7b9ec9d9369)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ha0min.ha0min)
 
-<p align="center">
-<a href="https://linkedin.com/in/haomincheng">Connect me on LinkedIn</a>
-</p>
+## Stay Connected 💃
+
+
+[![LinkedIn](https://img.shields.io/badge/Haomin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haomincheng)
