@@ -1,9 +1,9 @@
-[![GitHub Cover Poster](./github-cover.png)](https://haomin.tech)
+[![GitHub Cover Poster](./github-cover.gif)](https://haomin.tech)
 
 ## 
 
-I'm a 17 y/o self-taught web developer with more than two years of experience. 
-I'm very passionate about Front-End web development and I can help you to build most websites with the most appealing design.
+I bring a rich background in both front-end and back-end development, having honed my skills across multiple internships where I tackled real-world problems with cutting-edge technology.
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ha0min/ha0min/output/github-contribution-grid-snake-dark.svg">
