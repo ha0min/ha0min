@@ -10,8 +10,6 @@
 - Exploring the frontiers of AI and machine learning, particularly in natural language processing and real-time data processing.
 
 ## Github Stats 🛠️
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha0min&layout=compact&theme=tokyonight" /></a>
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=ha0min&theme=tokyonight" alt="muskanrani" />
 <br/>
 
 <picture>
